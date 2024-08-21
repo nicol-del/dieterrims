@@ -1,0 +1,29 @@
+p,figcaption,li,footer,caption,th,td {
+    font-size: 20px;
+}
+
+blockquote{
+    font-size: 28px;
+}
+
+table{
+    border-top: 1px solid grey;
+}
+
+body,img {
+    width: 800px;
+    margin: auto;
+}
+
+figure, blockquote {
+    margin: 0%;
+}
+
+h1, h2, h3, li, p, footer, blockquote, th, td, caption,figcaption {
+font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    margin-top: 4px;
+    margin-bottom: 40px;
+}
